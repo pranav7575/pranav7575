@@ -1,24 +1,133 @@
-Hi !  My name is Pranav Jadhav
-======================================================================================================================================
+# 👋 Hey there! I'm **Pranav Jadhav**
 
-Web Developer | Exploring Data Engineering
-------------------------------------------
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Web+Developer;Exploring+Data+Engineering;Building+Digital+Experiences)
 
-* 🌍  I'm based in Pune India
-* ✉️  You can contact me at [pranavjadhav432@gmail.com](mailto:pranavjadhav432@gmail.com)
-* 👥  I'm looking to collaborate on Web development projects using Next.js, React, and other front-end and back-end technologies. I have experience with APIs and creating user-friendly interfaces.
+</div>
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" alt="Redux" title="Redux" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a>
+---
+
+## 🚀 **About Me**
+
+```typescript
+const pranav = {
+    location: "🏙️ Pune, India",
+    role: "Full Stack Developer",
+    focus: "Web Development & Data Engineering",
+    email: "pranavjadhav432@gmail.com",
+    passion: "Creating seamless digital experiences",
+    currentlyExploring: ["Next.js", "React Ecosystem", "Data Engineering"],
+    lookingToCollaborate: true
+};
+```
+
+<div align="center">
+  
+### 💫 **What I Bring to the Table**
+*Crafting user-friendly interfaces with modern web technologies*  
+*Building robust APIs and scalable backend solutions*  
+*Turning ideas into interactive digital experiences*
+
+</div>
+
+---
+
+## 🛠️ **Tech Arsenal**
+
+<div align="center">
+
+### **Frontend Mastery**
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,redux,figma" alt="Frontend Skills"/>
 </p>
 
-### Socials
+### **Backend & Database**
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,mongodb,firebase" alt="Backend Skills"/>
+</p>
 
-<p align="left"> <a href="https://www.github.com/pranav7575" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/pranav-jadhav-8337ab229" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-<a href="https://www.github.com/pranav7575" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/pranav7575?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-### Badges
+### **Tools & Cloud**
+<p>
+<img src="https://skillicons.dev/icons?i=git,vscode,aws" alt="Tools"/>
+</p>
 
-<b>My GitHub Stats</b>
+</div>
 
-<a href="http://www.github.com/pranav7575"><img src="https://github-readme-stats.vercel.app/api?username=pranav7575&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="pranav7575's GitHub stats" /></a>
+---
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=pranav7575&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pranav7575&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav7575&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
+
+</div>
+
+---
+
+## 🎯 **Current Focus**
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="60"/>
+<br><strong>Next.js</strong>
+<br><em>Full-stack React framework</em>
+</td>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60"/>
+<br><strong>React Ecosystem</strong>
+<br><em>Modern UI development</em>
+</td>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60"/>
+<br><strong>Data Engineering</strong>
+<br><em>Exploring new horizons</em>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 🤝 **Let's Connect & Collaborate**
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](mailto:pranavjadhav432@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-jadhav-8337ab229)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/pranav7575)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranavjadhav432@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=pranav7575&style=for-the-badge&color=blue" alt="Profile Views"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 **"Code is like humor. When you have to explain it, it's bad."**
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+**Open to exciting collaborations and opportunities!**  
+*Let's build something amazing together* ✨
+
+</div>
